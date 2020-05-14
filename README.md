@@ -1,0 +1,47 @@
+# Zodiac
+
+Zodiac est un jeu d'énigmes où il faut lier un symbole avec la 
+description qui lui correspond. 
+
+Plusieurs parties vous sont proposées, 
+et vous pouvez aussi créer les votres. 
+Pour cela vous pouvez soit passer par le menu principal, 
+soit ajouter un fichier "src\data\NomEnigme.txt"
+en respectant la syntaxe suivante :
+
+Nom du Symbole=Description du symbole excluant le symbole égal
+
+### Description du menu de l'énigme :
+
+[1] Pour résoudre l'énigme vous devez échanger les statuettes
+entre elles jusqu'à ce qu'elles correspondent toutes avec
+leur description.
+Vous pouvez entrer le numéro de la statuette obtenu
+en observant la salle, ou taper son nom obtenu 
+en observant les statuettes.
+Trouvez les correspondances une par une sans vous soucier
+de faire une bonne paire. N'oubliez pas d'observer la salle
+de temps en temps, mais cela vous prendra un tour.
+
+[2] Donne la liste des symboles en statuettes
+et la description du socle sur lequel elle est posée.
+C'est comme cela que vous pouvez avoir le numéro
+pour les échanges. Cela compte pour un tour.
+
+[3] Vous donne une indication sur le nombre de correspondances
+entre les statuettes et les socles. Si le dernier échange que
+vous avez fait a ajouté une correspondance,
+la boule d'énergie brille plus fort.
+
+[4] Donne la liste des statuettes
+
+[5] Donne la liste des descriptions
+
+[6] Recommence la partie.
+Chaque utilisation à une chance d'augmenter 
+le nombre de correspondances.
+
+[1337] Objet du menu caché.
+Vous permet de quitter la partie.
+
+Le jeu à été développé en Java sur NetBeans IDE 8.0.2 en 2019.
