@@ -1,0 +1,12 @@
+tigre=Majesté d'élégance et de beauté, il impose le respect et l'admiration grâce à sa souveraine volonté.
+buffle=Son sens pratique et conservateur inspire la confiance, tandis qu'il impressionne par sa grandeur routinière.
+chèvre=Un suiveur toujours sous la direction d'autrui, un pacifique au flegme sympathique et à la barbe du sage.
+rat=Un coquin mystérieux qui flaire toujours les pensées des autres, un profiteur habile, un escroc.
+coq=Fier, franc et perfectionniste, il crie plus haut, plus loin, c'est un voyant téméraire.
+cheval=Une énergie à la réaction violente, courageux, audacieux, dynamique, c'est un chef entrainant, franc et honnête.
+chien=Un caractère fort qui n'aime pas les injustices et la cruauté, cherchant le bien-être d'autrui et s'occupant de la défense des faibles.
+singe=Un ingénieux intellectuel, vif et alerte, un bout-en-train, impatient et curieux.
+dragon=Crachant le feu de l'éternité, il s'envole dans une monstruosité avare.
+lapin=Amateur de confort, son calme, sa ruse et sa douceur font qu'il est peu combattant.
+serpent=Symbole de la renaissance cyclique du temps, c'est un cérébral ingénieux, faute de son handicap.
+cochon=Un tendre au faible caractère qui dévore les connaissances dans une naïveté pacifique.

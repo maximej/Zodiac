@@ -1,0 +1,5 @@
+feu=Je vis par le bois et je meurs par la terre
+bois=Je vis par l'eau et je meurs par le feu
+eau=Je vis par le metal et je meurs par le bois
+metal=Je vis par la terre et je meurs par l'eau
+terre=Je vis par le feu et je meurs par le metal
